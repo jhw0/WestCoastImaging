@@ -1,6 +1,6 @@
 **Source code not publically available**    
 
-Client: West Coast Digital Imaging  
+Client: West Coast Digital Imaging    
 Request: Custom web app for internal use  
           - secure log in  
           - upload medical records/documents  
